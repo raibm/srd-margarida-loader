@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Caminhar",
+    "date": "2025-03-08",
+    "description": "Caminhar por 15 minutos",
+    "reward": {
+      "id": 1,
+      "title": "Doce delicioso!",
+      "description": "Parabéns! Você ganhou um doce de 2 reais!",
+      "date": "2025-03-08"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Lavar louça",
+    "date": "2025-03-08",
+    "description": "Lavar as louças em até 50 minutos",
+    "reward": {
+      "id": 2,
+      "title": "Abraço legal!",
+      "description": "Parabéns! Você ganhou 1 carro!",
+      "date": "2025-03-08"
+    }
+  }
+]
