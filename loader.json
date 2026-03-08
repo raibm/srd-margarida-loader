@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Caminhar",
+    "title": "Correr",
     "date": "2025-03-08",
-    "description": "Caminhar por 15 minutos",
+    "description": "Caminhar por 1500 minutos",
     "reward": {
       "id": 1,
-      "title": "Doce delicioso!",
-      "description": "Parabéns! Você ganhou um doce de 2 reais!",
+      "title": "Carro zero!",
+      "description": "Parabéns! Você ganhou um carro 0km!",
       "date": "2025-03-08"
     }
   },
