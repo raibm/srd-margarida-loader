@@ -22,5 +22,29 @@
       "description": "Parabéns! Você ganhou 1 carro!",
       "date": "2025-03-08"
     }
+  },
+  {
+    "id": 3,
+    "title": "Ler livro",
+    "date": "2025-03-08",
+    "description": "Ler 10 páginas",
+    "reward": {
+      "id": 3,
+      "title": "Instagram!",
+      "description": "Parabéns! Você ganhou 1h de instagram!",
+      "date": "2025-03-08"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Brincar com a Sindy",
+    "date": "2025-03-08",
+    "description": "Brincar com a Sindy por 50 minutos",
+    "reward": {
+      "id": 4,
+      "title": "Abraço legal!",
+      "description": "Parabéns! Você ganhou 1 carro!",
+      "date": "2025-03-08"
+    }
   }
 ]
