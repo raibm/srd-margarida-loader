@@ -1,25 +1,13 @@
 [
   {
     "id": 1,
-    "title": "Estudar",
+    "title": "Escrever em papel",
     "date": "2025-03-09",
-    "description": "Estudar por duas horas.",
+    "description": "Escrever 3 questões sobre temas da faculdade.",
     "reward": {
       "id": 1,
-      "title": "Redes sociais!",
-      "description": "Parabéns! Você ganhou 1h de tempo livre!",
-      "date": "2025-03-09"
-    }
-  },
-  {
-    "id": 2,
-    "title": "Tarefa de casa",
-    "date": "2025-03-09",
-    "description": "Arrumar a lavanderia em até 20 minutos",
-    "reward": {
-      "id": 2,
-      "title": "Abraço legal!",
-      "description": "Parabéns! Você ganhou 1 abraço!",
+      "title": "Doce!",
+      "description": "Parabéns! Você ganhou 1 batom!",
       "date": "2025-03-09"
     }
   }
